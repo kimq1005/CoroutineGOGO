@@ -6,6 +6,7 @@ import androidx.lifecycle.ViewModel
 import com.bumptech.glide.load.engine.Resource
 import test.map.coroutinegogo.retrofit.Api
 
+//테스트4
 class HomeViewModel(
     private val repositroy : Api
 ) :ViewModel(){
