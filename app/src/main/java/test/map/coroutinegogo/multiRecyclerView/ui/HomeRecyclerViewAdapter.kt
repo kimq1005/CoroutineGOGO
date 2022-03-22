@@ -10,6 +10,7 @@ import test.map.coroutinegogo.databinding.MovieItemBinding
 import test.map.coroutinegogo.databinding.TitleItemBinding
 import java.lang.IllegalArgumentException
 
+//테스트1
 class HomeRecyclerViewAdapter : RecyclerView.Adapter<HomeRecylcerViewHolder>() {
 
     var items = listOf<HomeRecyclerViewItem>()
