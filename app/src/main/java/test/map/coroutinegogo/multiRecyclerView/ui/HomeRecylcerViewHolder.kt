@@ -7,6 +7,7 @@ import test.map.coroutinegogo.databinding.DirectorItemBinding
 import test.map.coroutinegogo.databinding.MovieItemBinding
 import test.map.coroutinegogo.databinding.TitleItemBinding
 
+//테스트3
 sealed class HomeRecylcerViewHolder(binding : ViewBinding):RecyclerView.ViewHolder(binding.root) {
 
     class  TitleViewHolder(private val binding: TitleItemBinding) : HomeRecylcerViewHolder(binding){
