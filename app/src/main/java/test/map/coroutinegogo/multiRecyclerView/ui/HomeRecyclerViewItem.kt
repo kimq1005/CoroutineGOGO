@@ -1,6 +1,7 @@
 package test.map.coroutinegogo.multiRecyclerView.ui
 
 //테스트2
+//
 sealed class HomeRecyclerViewItem {
 
     class Title(
